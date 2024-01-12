@@ -1,0 +1,5 @@
+numpy<1.24.0
+pandas
+scikit-learn
+scikit-optimize
+python<3.12.0
